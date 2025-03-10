@@ -9,5 +9,5 @@ void askname(char *first, char *last)
 
     printf("Now enter your last name: ");
     gets(last); /* buffer overflow? what's that? */
-    printf("meow meow meow");
+
 }
